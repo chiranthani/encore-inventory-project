@@ -1,0 +1,546 @@
+[
+  {
+    "id": 1,
+    "product": "Unisex's Pro Leggings",
+    "description": "High-performance leggings designed for flexibility and comfort.",
+    "status": "Active",
+    "inventory": 176,
+    "sales_channels": 3,
+    "markets": 1,
+    "category": "Activewear Tops",
+    "vendor": "NextGen",
+    "last_update": "2025-04-19",
+    "variants": [
+      {
+        "color": "Maroon",
+        "size": "XL",
+        "stock": 41,
+        "price": 109.09,
+        "discount": 5
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 23,
+        "price": 119.92,
+        "discount": 0
+      },
+      {
+        "color": "Green",
+        "size": "XS",
+        "stock": 18,
+        "price": 96.31,
+        "discount": 0
+      },
+      {
+        "color": "Maroon",
+        "size": "XS",
+        "stock": 33,
+        "price": 109.4,
+        "discount": 5
+      },
+      {
+        "color": "Maroon",
+        "size": "XXL",
+        "stock": 49,
+        "price": 104.24,
+        "discount": 0
+      },
+      {
+        "color": "White",
+        "size": "XXL",
+        "stock": 12,
+        "price": 109.29,
+        "discount": 10
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "product": "Men's Performance Hoodie",
+    "description": "Lightweight hoodie perfect for workouts or everyday wear.",
+    "status": "Draft",
+    "inventory": 161,
+    "sales_channels": 9,
+    "markets": 3,
+    "category": "Activewear Tops",
+    "vendor": "CoreWear",
+    "last_update": "2025-02-12",
+    "variants": [
+      {
+        "color": "Olive",
+        "size": "XXL",
+        "stock": 28,
+        "price": 56.64,
+        "discount": 5
+      },
+      {
+        "color": "Teal",
+        "size": "S",
+        "stock": 31,
+        "price": 96.11,
+        "discount": 15
+      },
+      {
+        "color": "Blue",
+        "size": "XXL",
+        "stock": 24,
+        "price": 114.9,
+        "discount": 0
+      },
+      {
+        "color": "Teal",
+        "size": "S",
+        "stock": 50,
+        "price": 108.8,
+        "discount": 15
+      },
+      {
+        "color": "Pink",
+        "size": "L",
+        "stock": 28,
+        "price": 77.83,
+        "discount": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "product": "Women's Elite Tank Top",
+    "description": "Breathable tank top ideal for intense training sessions.",
+    "status": "Draft",
+    "inventory": 93,
+    "sales_channels": 4,
+    "markets": 5,
+    "category": "Activewear Tops",
+    "vendor": "NextGen",
+    "last_update": "2025-04-22",
+    "variants": [
+      {
+        "color": "Green",
+        "size": "S",
+        "stock": 36,
+        "price": 69.25,
+        "discount": 10
+      },
+      {
+        "color": "Blue",
+        "size": "XXL",
+        "stock": 9,
+        "price": 58.86,
+        "discount": 10
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 48,
+        "price": 113.05,
+        "discount": 15
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "product": "Men's Performance Shirt",
+    "description": "Quick-dry performance shirt with a sleek fit and design.",
+    "status": "Active",
+    "inventory": 171,
+    "sales_channels": 9,
+    "markets": 5,
+    "category": "Activewear Tops",
+    "vendor": "Encore",
+    "last_update": "2025-04-23",
+    "variants": [
+      {
+        "color": "Red",
+        "size": "XL",
+        "stock": 40,
+        "price": 101.63,
+        "discount": 10
+      },
+      {
+        "color": "Beige",
+        "size": "S",
+        "stock": 36,
+        "price": 51.09,
+        "discount": 5
+      },
+      {
+        "color": "Olive",
+        "size": "M",
+        "stock": 5,
+        "price": 46.18,
+        "discount": 15
+      },
+      {
+        "color": "Olive",
+        "size": "XXL",
+        "stock": 20,
+        "price": 119.41,
+        "discount": 10
+      },
+      {
+        "color": "Pink",
+        "size": "XS",
+        "stock": 49,
+        "price": 106.44,
+        "discount": 15
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 21,
+        "price": 40.46,
+        "discount": 15
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "product": "Men's Pro Jacket",
+    "description": "Weather-resistant jacket engineered for movement and warmth.",
+    "status": "Achieved",
+    "inventory": 58,
+    "sales_channels": 6,
+    "markets": 1,
+    "category": "Accessories",
+    "vendor": "NextGen",
+    "last_update": "2025-01-25",
+    "variants": [
+      {
+        "color": "Navy",
+        "size": "L",
+        "stock": 41,
+        "price": 94.86,
+        "discount": 15
+      },
+      {
+        "color": "Aqua",
+        "size": "XS",
+        "stock": 17,
+        "price": 65.84,
+        "discount": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "product": "Women's Classic Tank Top",
+    "description": "Lightweight tank top with a classic fit and style.",
+    "status": "Active",
+    "inventory": 79,
+    "sales_channels": 4,
+    "markets": 3,
+    "category": "Activewear Tops",
+    "vendor": "Encore",
+    "last_update": "2025-09-24",
+    "variants": [
+      {
+        "color": "Olive",
+        "size": "L",
+        "stock": 20,
+        "price": 69.56,
+        "discount": 15
+      },
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 17,
+        "price": 56.01,
+        "discount": 10
+      },
+      {
+        "color": "Aqua",
+        "size": "M",
+        "stock": 42,
+        "price": 82.28,
+        "discount": 15
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "product": "Unisex's Classic Shirt",
+    "description": "Everyday comfort shirt crafted from soft cotton blend.",
+    "status": "Draft",
+    "inventory": 90,
+    "sales_channels": 7,
+    "markets": 1,
+    "category": "Activewear Tops",
+    "vendor": "Element",
+    "last_update": "2025-07-15",
+    "variants": [
+      {
+        "color": "Red",
+        "size": "S",
+        "stock": 27,
+        "price": 63.11,
+        "discount": 0
+      },
+      {
+        "color": "Red",
+        "size": "XXL",
+        "stock": 50,
+        "price": 75.33,
+        "discount": 10
+      },
+      {
+        "color": "Aqua",
+        "size": "S",
+        "stock": 13,
+        "price": 86.88,
+        "discount": 15
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "product": "Women's Elite Hoodie",
+    "description": "Cozy hoodie featuring a tailored fit and warm lining.",
+    "status": "Active",
+    "inventory": 135,
+    "sales_channels": 2,
+    "markets": 1,
+    "category": "Activewear Bottoms",
+    "vendor": "Element",
+    "last_update": "2025-01-25",
+    "variants": [
+      {
+        "color": "Maroon",
+        "size": "XS",
+        "stock": 27,
+        "price": 100.63,
+        "discount": 15
+      },
+      {
+        "color": "Aqua",
+        "size": "XXL",
+        "stock": 11,
+        "price": 40.06,
+        "discount": 10
+      },
+      {
+        "color": "Gray",
+        "size": "XS",
+        "stock": 47,
+        "price": 78.58,
+        "discount": 10
+      },
+      {
+        "color": "Pink",
+        "size": "XL",
+        "stock": 30,
+        "price": 72.28,
+        "discount": 10
+      },
+      {
+        "color": "Gray",
+        "size": "XXL",
+        "stock": 20,
+        "price": 75.68,
+        "discount": 5
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "product": "Women's Performance Jacket",
+    "description": "Windproof jacket offering both performance and style.",
+    "status": "Draft",
+    "inventory": 43,
+    "sales_channels": 4,
+    "markets": 2,
+    "category": "Activewear Tops",
+    "vendor": "Encore",
+    "last_update": "2025-07-24",
+    "variants": [
+      {
+        "color": "Maroon",
+        "size": "XS",
+        "stock": 8,
+        "price": 119.07,
+        "discount": 0
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 17,
+        "price": 77.86,
+        "discount": 15
+      },
+      {
+        "color": "Green",
+        "size": "XS",
+        "stock": 18,
+        "price": 88.49,
+        "discount": 10
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "product": "Men's Sport Hoodie",
+    "description": "Sporty hoodie with sweat-wicking properties for active use.",
+    "status": "Active",
+    "inventory": 35,
+    "sales_channels": 3,
+    "markets": 5,
+    "category": "Activewear Tops",
+    "vendor": "NextGen",
+    "last_update": "2025-02-23",
+    "variants": [
+      {
+        "color": "Beige",
+        "size": "M",
+        "stock": 13,
+        "price": 78.46,
+        "discount": 10
+      }
+    ]
+  },
+    {
+    "id": 11,
+    "product": "Women's Sport Tank Top",
+    "status": "Draft",
+    "inventory": 63,
+    "sales_channels": 6,
+    "markets": 3,
+    "category": "Activewear Tops",
+    "vendor": "UrbanMotion",
+    "last_update": "2025-01-30",
+    "description": "Lightweight tank top for active workouts.",
+    "variants": [
+      {
+        "color": "Beige",
+        "size": "M",
+        "stock": 27,
+        "price": 46.12,
+        "discount": 10
+      },
+      {
+        "color": "Black",
+        "size": "XXL",
+        "stock": 10,
+        "price": 40.1,
+        "discount": 0
+      },
+      {
+        "color": "Red",
+        "size": "XS",
+        "stock": 10,
+        "price": 71.44,
+        "discount": 10
+      },
+      {
+        "color": "Gray",
+        "size": "XL",
+        "stock": 16,
+        "price": 116.05,
+        "discount": 10
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "product": "Women's Performance Shirt",
+    "status": "Achieved",
+    "inventory": 125,
+    "sales_channels": 6,
+    "markets": 1,
+    "category": "Accessories",
+    "vendor": "Encore",
+    "last_update": "2025-06-14",
+    "description": "Breathable shirt ideal for intense training.",
+    "variants": [
+      {
+        "color": "Pink",
+        "size": "M",
+        "stock": 22,
+        "price": 52.2,
+        "discount": 10
+      },
+      {
+        "color": "Teal",
+        "size": "L",
+        "stock": 24,
+        "price": 89.54,
+        "discount": 0
+      },
+      {
+        "color": "Gray",
+        "size": "XS",
+        "stock": 19,
+        "price": 108.24,
+        "discount": 5
+      },
+      {
+        "color": "Red",
+        "size": "XL",
+        "stock": 30,
+        "price": 48.1,
+        "discount": 10
+      },
+      {
+        "color": "Maroon",
+        "size": "XL",
+        "stock": 30,
+        "price": 63.81,
+        "discount": 10
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "product": "Men's Performance Tank Top",
+    "status": "Draft",
+    "inventory": 191,
+    "sales_channels": 3,
+    "markets": 4,
+    "category": "Activewear Bottoms",
+    "vendor": "NextGen",
+    "last_update": "2025-06-22",
+    "description": "Durable tank top built for daily training.",
+    "variants": [
+      {
+        "color": "Maroon",
+        "size": "L",
+        "stock": 42,
+        "price": 117.86,
+        "discount": 15
+      },
+      {
+        "color": "Olive",
+        "size": "S",
+        "stock": 48,
+        "price": 115.29,
+        "discount": 10
+      },
+      {
+        "color": "Aqua",
+        "size": "XXL",
+        "stock": 24,
+        "price": 43.56,
+        "discount": 5
+      },
+      {
+        "color": "Navy",
+        "size": "XXL",
+        "stock": 50,
+        "price": 110.89,
+        "discount": 5
+      },
+      {
+        "color": "Green",
+        "size": "S",
+        "stock": 27,
+        "price": 44.11,
+        "discount": 10
+      }
+    ]
+  }
+]
+
+
+
+
+
