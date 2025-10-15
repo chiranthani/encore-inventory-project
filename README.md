@@ -24,7 +24,7 @@ composer install
 Copy the example environment file and generate an application key:
 
 ```bash
-cp .env.example .env
+copy .env.example .env
 php artisan key:generate
 ```
 
@@ -37,6 +37,15 @@ php artisan key:generate
 ```bash
 php artisan storage:link
 ```
+
+### 5. Project Run
+
+```bash
+php artisan serve
+```
+
+
+
 
 ---
 ## User Interface Preview
